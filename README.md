@@ -1,6 +1,6 @@
 ## Olá, eu sou a Maria Eduarda Weber
 
-- 💻 Estudando em curso técnico de Informática
+- 💻 Estudando PHP
 - 📩 mariaeduardaweber509@gmail.com
 - 
 <a href="https://github.com/Dudiiss32/github-readme-stats">
