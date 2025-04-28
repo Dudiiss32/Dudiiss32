@@ -18,11 +18,14 @@
 
 ## Contatos
 
-<div>
+<div style="display: flex; justify-content: center; gap: 40px;">
   <a href="https://github.com/Dudiiss32">
-    <img loading="lazy" height="18em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudiiss32&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="18em" src="https://github-readme-stats.vercel.app/api?username=Dudiiss32&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudiiss32&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+  <a href="https://github.com/Dudiiss32">
+    <img loading="lazy" height="200" src="https://github-readme-stats.vercel.app/api?username=Dudiiss32&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
 ![Snake animation](https://github.com/Dudiiss32/Dudiiss32/blob/output/github-contribution-grid-snake.svg)
+
