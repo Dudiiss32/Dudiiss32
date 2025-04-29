@@ -18,6 +18,11 @@
 
 ## Contatos
 
+<div> 
+  <a href = "mailto:mariaeduardaweber509@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 <div style="display: flex; justify-content: center; gap: 40px;">
   <a href="https://github.com/Dudiiss32">
     <img loading="lazy" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudiiss32&layout=compact&langs_count=7&theme=dracula"/>
