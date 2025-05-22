@@ -34,6 +34,5 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/Dudiiss32/snk/blob/output/github-contribution-grid-snake.svg)
 
 
