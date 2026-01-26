@@ -2,7 +2,6 @@
 
 - 💻 Atualmente estou estudando PHP e Laravel
 - 📩 mariaeduardaweber509@gmail.com
-- 💼 Trabalhando na DataMais
 
 ## Ferramentas e Tecnologias
 
