@@ -1,6 +1,6 @@
 ## Olá, eu sou a Maria Eduarda Weber
 
-- 💻 Atualmente estou estudando PHP e Laravel
+- 💻 Estudando PL/SQL e ORACLE APEX
 - 📩 mariaeduardaweber509@gmail.com
 
 ## Ferramentas e Tecnologias
