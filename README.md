@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF69B4&size=28&lines=Desenvolvedora+Full+Stack+👨‍💻;Estudando+Python+e+AWS+☁️;Apaixonada+por+PL%2FSQL+e+ORACLE+APEX+🗄️;Criando+soluções+incríveis+✨;Bora+codar+junto%3F+🚀" />
+  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF69B4&size=28&lines=Desenvolvedora+Full+Stack+👨‍💻;Bora+codar+junto%3F+🚀" />
 </div>
 
 ---
@@ -100,6 +100,16 @@
 ---
 
 <div align="center">
+  <h2>🐍 Contributions Snake</h2>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dudiiss32/Dudiiss32/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
   <h2>📞 Vamos nos Conectar?</h2>
 </div>
 
@@ -127,15 +137,3 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer&text=Que%20a%20magia%20do%20código%20te%20abençoe%20✨&fontSize=18&fontColor=fff&animation=twinkling" />
 </div>
-
-<style>
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.5; }
-  }
-  
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-  }
-</style>
