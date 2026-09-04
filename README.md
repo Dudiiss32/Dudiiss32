@@ -87,15 +87,15 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudiiss32&layout=compact&theme=radical&border_radius=10&disable_animations=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudiiss32&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dudiiss32&show_icons=true&theme=radical&border_radius=10&disable_animations=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dudiiss32&show_icons=true&theme=github_dark&v=2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dudiiss32&theme=radical&border_radius=10" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dudiiss32&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
