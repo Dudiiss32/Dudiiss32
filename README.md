@@ -11,7 +11,7 @@
 <div align="center">
   <h2>Sobre Mim</h2>
   <p>
-    Olá! Sou a Maria Eduadura Weber, uma desenvolvedora apaixonada por tecnologia.<br>
+    Olá! Sou a Maria Eduarda Weber, uma desenvolvedora apaixonada por tecnologia.<br>
     Atualmente estudando <strong>Python</strong>, <strong>AWS</strong>, <strong>PL/SQL</strong> e <strong>ORACLE APEX</strong>.<br>
     Meu objetivo? Dominar o desenvolvimento full stack e a nuvem.<br>
     Adoro transformar ideias em código!
