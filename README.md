@@ -87,9 +87,11 @@
 </div>
 
 <div align="center">
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudiiss32&layout=compact&langs_count=7&theme=radical" />
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Dudiiss32&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudiiss32&layout=compact&langs_count=7&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dudiiss32&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
+
+<br>
 
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dudiiss32&theme=radical" />
