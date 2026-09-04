@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF69B4&size=28&lines=Desenvolvedora+Full+Stack;Bora+codar+junto" />
+  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF69B4&size=28&lines=Desenvolvedora+Full+Stack;Bora+codar+junto+🚀" />
 </div>
 
 ---
