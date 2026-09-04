@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF69B4&size=28&lines=Desenvolvedora+Full+Stack+👨‍💻;Apaixonada+por+PL%2FSQL+e+ORACLE+APEX+🗄️;Criando+soluções+incríveis+✨;Bora+codar+junto%3F+🚀" />
+  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF69B4&size=28&lines=Desenvolvedora+Full+Stack+👨‍💻;Estudando+Python+e+AWS+☁️;Apaixonada+por+PL%2FSQL+e+ORACLE+APEX+🗄️;Criando+soluções+incríveis+✨;Bora+codar+junto%3F+🚀" />
 </div>
 
 ---
@@ -13,7 +13,8 @@
   <p>
     <samp>
       Olá! Sou a Maria Eduadura Weber, uma desenvolvedora apaixonada por tecnologia! 💻<br>
-      Atualmente estudando <strong>PL/SQL</strong> e <strong>ORACLE APEX</strong> para dominar o universo de dados.<br>
+      Atualmente estudando <strong>Python</strong>, <strong>AWS</strong>, <strong>PL/SQL</strong> e <strong>ORACLE APEX</strong>.<br>
+      Meu objetivo? Dominar o desenvolvimento full stack e a nuvem! ☁️<br>
       Adoro transformar ideias em código e criar experiências incríveis! 🎨✨
     </samp>
   </p>
@@ -29,6 +30,7 @@
   <h3>Backend</h3>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&borderRadius=5" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&borderRadius=5" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&borderRadius=5" />
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white&borderRadius=5" />
 </div>
 
@@ -44,6 +46,40 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&borderRadius=5" />
   <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white&borderRadius=5" />
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white&borderRadius=5" />
+</div>
+
+<div align="center">
+  <h3>Nuvem & Infraestrutura ☁️</h3>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&borderRadius=5" />
+</div>
+
+---
+
+<div align="center">
+  <h2>📚 Atualmente Estudando</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" /><br>
+        <b>Python</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" /><br>
+        <b>AWS</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="60" height="60" /><br>
+        <b>PL/SQL</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="60" height="60" /><br>
+        <b>ORACLE APEX</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -84,7 +120,7 @@
 <div align="center">
   <h2>💫 Vibe do Perfil</h2>
   <p>
-    🎀 Criativa • 💪 Determinada • 🚀 Inovadora • 🤝 Colaboradora • ✨ Sempre Aprendendo
+    🎀 Criativa • 💪 Determinada • 🚀 Inovadora • 🤝 Colaboradora • ✨ Sempre Aprendendo • ☁️ Cloud Explorer
   </p>
 </div>
 
