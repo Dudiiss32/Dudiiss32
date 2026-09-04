@@ -11,7 +11,7 @@
 <div align="center">
   <h2>Sobre Mim</h2>
   <p>
-    Olá! Sou a Maria Eduarda Weber, uma desenvolvedora apaixonada por tecnologia.<br>
+    Olá! Sou a Maria Eduadura Weber, uma desenvolvedora apaixonada por tecnologia.<br>
     Atualmente estudando <strong>Python</strong>, <strong>AWS</strong>, <strong>PL/SQL</strong> e <strong>ORACLE APEX</strong>.<br>
     Meu objetivo? Dominar o desenvolvimento full stack e a nuvem.<br>
     Adoro transformar ideias em código!
@@ -86,16 +86,17 @@
   <h2>Estatísticas GitHub</h2>
 </div>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudiiss32&layout=compact&langs_count=7&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dudiiss32&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudiiss32&layout=compact&theme=radical" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dudiiss32&show_icons=true&theme=radical" />
+</p>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dudiiss32&theme=radical" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dudiiss32&theme=radical" />
+</p>
 
 ---
 
